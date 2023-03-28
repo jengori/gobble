@@ -178,3 +178,21 @@ div .card-back-text {
     width: 13%;
 }
 
+@media(max-width: 767px) {
+    .card-1 {
+       margin-left: auto;
+       margin-right: auto;
+       margin-bottom: 20px;
+    }
+    .card-2 {
+        margin-left: auto;
+        margin-right: auto;
+    }
+  
+  }
+
+  @media(max-width: 767px) {
+    h1 {
+        font-size: 5em;
+    }}
+
