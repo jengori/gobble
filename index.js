@@ -30,7 +30,7 @@ $(document).keypress(function() {
 
     $("img").click(function() {
 
-        if(!game_over){
+        if((!game_over) && (started)) {
 
         var user_answer = $(this).attr("src");
     
