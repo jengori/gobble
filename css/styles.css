@@ -1,0 +1,180 @@
+body {
+    background-color: yellow;
+    font-family: "Slackey", cursive;
+    text-align: center;
+}
+
+h1 {
+    font-size: 7em;
+    padding-top: 50px;
+    padding-bottom: 20PX;
+}
+
+h2 {
+    color: purple;
+    text-align: center;
+}
+
+#counter { 
+    padding-bottom: 50px;}
+
+.counter-hidden {
+    color: yellow;
+}
+
+.card {
+    background-color: white;
+    border-radius: 100%;
+    border: 10px purple solid;
+    width: 100%;
+    aspect-ratio: 1/1;
+    max-width: 400px;
+}
+
+.card-1 {
+    margin-right: 0;
+    margin-left: auto;
+}
+
+.card-2 {
+    margin-left: 0;
+    margin-right: auto;
+}
+
+.card-back-text {
+    font-size: 2em;
+}
+
+.card-back-text-hidden {
+    display: none;
+    height: 90%;
+    margin: auto;
+}
+
+div .card-back-text {
+    margin: auto;
+    height: auto;
+    width: auto;
+   
+}
+
+.card-back {
+    background-color: yellow;
+}
+
+.images-hidden {
+    display: none;
+}
+
+.card-1 .img-1 {
+    position: absolute;
+    left: 30%;
+    top: 10%;
+    width: 10%;
+}
+
+.card-1 .img-2 {
+    position: absolute;
+    left: 40%;
+    top: 25%;
+    width: 15%;
+}
+
+.card-1 .img-3 {
+    position: absolute;
+    left: 10%;
+    top: 50%;
+    width: 30%;
+} 
+
+.card-1 .img-4 {
+    position: absolute;
+    left: 60%;
+    top: 15%;
+    width: 20%;
+}
+
+.card-1 .img-5 {
+    position: absolute;
+    left: 5%;
+    top: 30%;
+    width: 15%;
+}
+
+.card-1 .img-6 {
+    position: absolute;
+    left: 45%;
+    top: 45%;
+    width: 25%;
+}
+
+.card-1 .img-7 {
+    position: absolute;
+    left: 60%;
+    top: 80%;
+    width: 10%;
+}
+
+.card-1 .img-8 {
+    position: absolute;
+    left: 75%;
+    top: 60%;
+    width: 13%;
+}
+
+.card-2 .img-9 {
+    position: absolute;
+    left: 30%;
+    top: 10%;
+    width: 10%;
+}
+
+.card-2 .img-10 {
+    position: absolute;
+    left: 40%;
+    top: 25%;
+    width: 15%;
+}
+
+.card-2 .img-11 {
+    position: absolute;
+    left: 10%;
+    top: 50%;
+    width: 30%;
+} 
+
+.card-2 .img-12 {
+    position: absolute;
+    left: 60%;
+    top: 15%;
+    width: 20%;
+}
+
+.card-2 .img-13 {
+    position: absolute;
+    left: 5%;
+    top: 30%;
+    width: 15%;
+}
+
+.card-2 .img-14 {
+    position: absolute;
+    left: 45%;
+    top: 45%;
+    width: 25%;
+}
+
+.card-2 .img-15 {
+    position: absolute;
+    left: 60%;
+    top: 80%;
+    width: 10%;
+}
+
+.card-2 .img-16 {
+    position: absolute;
+    left: 75%;
+    top: 60%;
+    width: 13%;
+}
+
